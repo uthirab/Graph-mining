@@ -1,0 +1,671 @@
+288
+383
+aberdeen
+abilene
+aguadilla,puerto rico
+akron-canton
+albany, ga
+albany, ny
+albuquerque
+alexandria
+allentown
+alpena
+amarillo
+anchorage
+appleton
+asheville
+aspen
+atlanta
+atlantic city
+augusta
+austin
+bakersfield
+baltimore
+bangor
+baton rouge
+beaumont
+bemidji
+billings
+binghamton
+birmingham
+bismarck
+bloomington
+boise
+boston
+bozeman
+brainerd
+branson
+brownsville
+brunswick
+buffalo
+burbank
+burlington
+butte
+casper
+cedar city
+cedar rapids
+champaign
+charleston, sc
+charleston, wv
+charlotte
+charlottesville
+chattanooga
+chicago
+chisholm/hibbing
+cincinnati
+clarksburg/morgantown
+cleveland
+cody
+college station
+colorado springs
+columbia
+columbus
+columbus/ft. benning
+columbus/starkville west point
+concord
+corpus christi
+dallas
+dayton
+daytona beach
+denver
+des moines
+detroit
+dothan
+dubuque
+duluth
+durango
+eagle/vail/beaver creek
+el paso
+elko
+elmira/corning
+elpaso
+erie
+escanaba
+eugene
+evansville
+fairbanks
+fargo
+fayetteville
+flagstaff
+flint
+florence
+fort lauderdale
+fort myers
+fort smith
+fort walton beach
+fort wayne
+fresno
+gainesville
+garden city
+grand island
+grand junction
+grand rapids
+grandforks
+great falls
+green bay
+greensboro
+greenville
+gulfport
+gunnison
+hagerstown
+harlingen
+harrisburg
+hartford
+hattiesburg
+hayden
+helena
+honolulu
+houston
+huntington(tri-state)
+huntsville
+idaho falls
+indianapolis
+international falls
+iron mountain/kingsfield
+islip
+ithaca
+jackson
+jackson hole
+jacksonville
+jacksonville/camp lejeune 
+joplin
+juneau
+kahului
+kalamazoo
+kalispell
+kansas city
+ketchikan
+key west
+killeen
+knoxville
+kona
+la crosse
+lafayette
+lake charles
+lansing
+laredo
+las vegas
+latrobe
+lawton
+lewiston
+lexington
+lihue
+lincoln
+little rock
+long beach
+long island
+longview
+los angeles
+louisville
+lubbock
+lynchburg
+madison
+manchester
+manhattan
+marquette
+martha's vineyard
+mcallen
+medford
+memphis
+meridian
+miami
+midland
+midland/saginaw
+milwaukee
+minneapolis
+minot
+missoula
+mobile
+moline
+monroe
+monterey
+montgomery
+montrose
+myrtle beach
+nantucket
+nashville
+nassau bahamas
+new bern
+new haven
+new orleans
+new york
+newark
+newburgh(stewart)
+newport news
+norfolk
+oakland
+oklahoma city
+omaha
+ontario
+orange county
+orlando
+owensboro
+palm springs
+panama city
+pasco
+pellston/mackinac island
+pensacola
+peoria
+philadelphia
+phoenix
+pittsburgh
+plattsburgh
+pocatello
+portland
+portland, me
+portsmouth
+providence
+provo
+raleigh
+rapid city
+redmond
+reno
+rhinelander
+richmond
+roanoke
+rochester, mn
+rochester, ny
+roswell
+sacramento
+saintthomas,usvirginislands
+salisbury
+salt lake city
+san angelo
+san antonio
+san diego
+san francisco
+san jose
+san juan
+san luis obispo
+santa ana
+santa barbara
+santa fe
+santa rosa
+santamaria
+sarasota
+sault ste. marie
+savannah
+seattle
+shreveport
+sioux city
+sioux falls
+sitka
+south bend
+spokane
+springfield
+st george
+st. louis
+st.cloud
+state college
+stillwater
+stockton
+sun valley
+syracuse
+tallahassee
+tampa
+texarkana
+toledo
+traverse city
+trenton
+tri-cities
+tucson
+tulsa
+twin falls
+tyler
+vail
+valdosta
+waco
+washington
+waterloo
+watertown
+wausau
+west palm beach
+west yellowstone
+white plains
+wichita
+wichita falls
+wilkes
+williamsport
+williston
+wilmington
+yuma
+Austin	-	Albuquerque
+Austin 	-	Cincinnati 
+Austin 	-	cleveland 
+Austin 	-	Columbus
+Austin 	-	Fort Walton Beach 
+Austin 	-	Indianapolis 
+Austin 	-	Las Vegas 
+Austin 	-	Memphis 
+Austin 	-	Orlando 
+Austin 	-	Pittsburgh 
+Austin 	-	Tampa
+charleston, SC 	-	Cincinnati 
+charleston, SC 	-	Indianapolis 
+charleston, SC 	-	Pittsburgh 
+Fort Walton Beach 	-	St. Louis
+Fort Walton Beach 	-	Cincinnati 
+Fort Walton Beach 	-	cleveland 
+Fort Walton Beach 	-	Columbus
+Fort Walton Beach 	-	Charlotte
+Fort Walton Beach 	-	Evansville 
+Fort Walton Beach 	-	Indianapolis 
+Fort Walton Beach 	-	Kansas City 
+Fort Walton Beach 	-	Knoxville 
+Fort Walton Beach 	-	Lexington 
+Fort Walton Beach 	-	Louisville 
+Fort Walton Beach 	-	Memphis 
+Fort Walton Beach 	-	newark 
+Fort Walton Beach 	-	Fayetteville 
+Fort Walton Beach 	-	Oklahoma City 
+Fort Walton Beach 	-	Peoria 
+Fort Walton Beach 	-	Pittsburgh 
+Fort Walton Beach 	-	Raleigh
+Fort Walton Beach 	-	Springfield
+Fort Walton Beach 	-	Baltimore 
+Fort Lauderdale 	-	Allentown 
+Fort Lauderdale 	-	Asheville 
+Fort Lauderdale 	-	st. Louis 
+Fort Lauderdale 	-	Cincinnati 
+Fort Lauderdale 	-	cleveland 
+Fort Lauderdale 	-	Columbus
+Fort Lauderdale 	-	Charlotte
+Fort Lauderdale 	-	Grand Rapids 
+Fort Lauderdale 	-	Greenville
+Fort Lauderdale 	-	Indianapolis 
+Fort Lauderdale 	-	Knoxville 
+Fort Lauderdale 	-	Lexington 
+Fort Lauderdale 	-	Louisville 
+Fort Lauderdale 	-	Memphis 
+Fort Lauderdale 	-	Milwaukee 
+Fort Lauderdale 	-	Norfolk 
+Fort Lauderdale 	-	Syracuse
+fort myers	-	Allentown 
+fort myers	-	Asheville 
+fort myers	-	st. Louis 
+fort myers	-	Cedar Rapids 
+fort myers	-	Cincinnati 
+fort myers	-	cleveland 
+fort myers	-	Columbus
+fort myers	-	Charlotte
+fort myers	-	Dayton 
+fort myers	-	Des Moines 
+fort myers	-	Flint 
+fort myers	-	Fort Wayne 
+fort myers	-	Grand Rapids 
+fort myers	-	Harrisburg 
+fort myers	-	Huntington (Tri-State) 
+fort myers	-	Indianapolis 
+fort myers	-	Kansas City 
+fort myers	-	Knoxville 
+fort myers	-	Lexington 
+fort myers	-	Louisville 
+fort myers	-	Milwaukee 
+fort myers	-	Moline 
+fort myers	-	Newburgh (Stewart) 
+fort myers	-	buffalo 
+fort myers	-	Omaha 
+fort myers	-	Peoria 
+fort myers	-	Pittsburgh 
+fort myers	-	Plattsburgh 
+fort myers	-	Portsmouth 
+fort myers	-	Providence 
+fort myers	-	Raleigh
+fort myers	-	Rochester, ny 
+fort myers	-	chicago 
+fort myers	-	South Bend 
+fort myers	-	Springfield
+fort myers	-	Springfield 
+fort myers	-	St. Cloud 
+fort myers	-	Toledo  / Detroit 
+fort myers	-	Trenton 
+Jacksonville 	-	st. Louis 
+Jacksonville 	-	Cincinnati 
+Jacksonville 	-	cleveland 
+Jacksonville 	-	Columbus
+Jacksonville 	-	Indianapolis 
+Jacksonville 	-	Pittsburgh 
+Las Vegas 	-	Albuquerque 
+Las Vegas 	-	Appleton 
+Las Vegas 	-	st. Louis 
+Las Vegas 	-	Billings 
+Las Vegas 	-	Bismarck 
+Las Vegas 	-	Boise 
+Las Vegas 	-	Bozeman 
+Las Vegas 	-	Cedar Rapids 
+Las Vegas 	-	Cincinnati 
+Las Vegas 	-	Colorado Springs 
+Las Vegas 	-	Des Moines 
+Las Vegas 	-	El Paso 
+Las Vegas 	-	Eugene 
+Las Vegas 	-	Fargo 
+Las Vegas 	-	Fresno 
+Las Vegas 	-	Grand Forks 
+Las Vegas 	-	Grand Island 
+Las Vegas 	-	Grand Junction 
+Las Vegas 	-	Grand Rapids 
+Las Vegas 	-	Great Falls 
+Las Vegas 	-	Idaho Falls 
+Las Vegas 	-	Indianapolis 
+Las Vegas 	-	Kalispell 
+Las Vegas 	-	Knoxville 
+Las Vegas 	-	Laredo 
+Las Vegas 	-	Louisville 
+Las Vegas 	-	Medford 
+Las Vegas 	-	Memphis 
+Las Vegas 	-	Minot 
+Las Vegas 	-	Missoula 
+Las Vegas 	-	Moline 
+Las Vegas 	-	Monterey 
+Las Vegas 	-	Fayetteville 
+Las Vegas 	-	Oakland
+Las Vegas 	-	Ogden 
+Las Vegas 	-	Oklahoma City 
+Las Vegas 	-	Omaha 
+Las Vegas 	-	Pasco 
+Las Vegas 	-	Peoria 
+Las Vegas 	-	Phoenix
+Las Vegas 	-	Rapid City 
+Las Vegas 	-	Reno
+Las Vegas 	-	chicago 
+Las Vegas 	-	San Antonio 
+Las Vegas 	-	Santa Maria 
+Las Vegas 	-	Shreveport 
+Las Vegas 	-	Sioux Falls 
+Las Vegas 	-	South Bend 
+Las Vegas 	-	Springfield
+Las Vegas 	-	Stockton 
+Las Vegas 	-	Tulsa 
+Las Vegas 	-	Wichita 
+Los Angeles 	-	Billings 
+Los Angeles 	-	Boise 
+Los Angeles 	-	Cedar Rapids 
+Los Angeles 	-	Cincinnati 
+Los Angeles 	-	Des Moines 
+Los Angeles 	-	Eugene 
+Los Angeles 	-	Fargo 
+Los Angeles 	-	Grand Junction 
+Los Angeles 	-	Idaho Falls 
+Los Angeles 	-	Kalispell 
+Los Angeles 	-	Little Rock 
+Los Angeles 	-	Medford 
+Los Angeles 	-	Memphis 
+Los Angeles 	-	Missoula 
+Los Angeles 	-	Montrose / Telluride 
+Los Angeles 	-	Fayetteville 
+Los Angeles 	-	Ogden 
+Los Angeles 	-	Oklahoma City 
+Los Angeles 	-	Pasco 
+Los Angeles 	-	Provo 
+Los Angeles 	-	Sioux Falls 
+Los Angeles 	-	Springfield
+Los Angeles 	-	Tulsa 
+Los Angeles 	-	Wichita 
+Myrtle Beach 	-	Allentown 
+Myrtle Beach 	-	st. Louis 
+Myrtle Beach 	-	Cincinnati 
+Myrtle Beach 	-	Clarksburg / Morgantown 
+Myrtle Beach 	-	cleveland 
+Myrtle Beach 	-	Columbus
+Myrtle Beach 	-	Dayton 
+Myrtle Beach 	-	Fort Wayne 
+Myrtle Beach 	-	Harrisburg 
+Myrtle Beach 	-	Huntington (Tri-State) 
+Myrtle Beach 	-	Indianapolis 
+Myrtle Beach 	-	Lexington 
+Myrtle Beach 	-	Newburgh (Stewart) 
+Myrtle Beach 	-	Pittsburgh 
+Myrtle Beach 	-	Portsmouth 
+Myrtle Beach 	-	Syracuse 
+New Orleans 	-	Cincinnati 
+New Orleans 	-	cleveland 
+New Orleans 	-	Columbus
+New Orleans 	-	Charlotte
+New Orleans 	-	Indianapolis 
+New Orleans 	-	Orlando 
+New Orleans 	-	Pittsburgh 
+New Orleans 	-	Raleigh
+New Orleans 	-	Tampa
+newark 	-	Asheville 
+newark 	-	Cincinnati 
+newark 	-	Knoxville 
+newark 	-	Savannah  
+Oakland	-	Eugene 
+Oakland	-	Idaho Falls 
+Oakland	-	Kalispell 
+Oakland	-	Missoula 
+Oakland	-	phoenix 
+Orlando 	-	Allentown 
+Orlando 	-	Appleton 
+Orlando 	-	Asheville 
+Orlando 	-	Bangor 
+Orlando 	-	st. Louis 
+Orlando 	-	Bismarck 
+Orlando 	-	Bloomington 
+Orlando 	-	Cedar Rapids 
+Orlando 	-	Chattanooga 
+Orlando 	-	Cincinnati 
+Orlando 	-	Clarksburg / Morgantown 
+Orlando 	-	cleveland 
+Orlando 	-	Columbus
+Orlando 	-	Charlotte
+Orlando 	-	Dayton 
+Orlando 	-	Des Moines 
+Orlando 	-	El Paso 
+Orlando 	-	Elmira / Corning 
+Orlando 	-	Evansville 
+Orlando 	-	Fargo 
+Orlando 	-	Flint 
+Orlando 	-	Fort Wayne 
+Orlando 	-	Grand Forks 
+Orlando 	-	Grand Rapids 
+Orlando 	-	Greensboro
+Orlando 	-	Greenville
+Orlando 	-	Gulfport / Biloxi 
+Orlando 	-	Hagerstown 
+Orlando 	-	Harrisburg 
+Orlando 	-	Huntington (Tri-State) 
+Orlando 	-	Indianapolis 
+Orlando 	-	Kansas City 
+Orlando 	-	Knoxville 
+Orlando 	-	Lexington 
+Orlando 	-	Little Rock 
+Orlando 	-	Louisville 
+Orlando 	-	Memphis 
+Orlando 	-	Milwaukee 
+Orlando 	-	Moline 
+Orlando 	-	Newburgh (Stewart) 
+Orlando 	-	buffalo 
+Orlando 	-	Norfolk 
+Orlando 	-	Fayetteville 
+Orlando 	-	Oklahoma City 
+Orlando 	-	Omaha 
+Orlando 	-	Owensboro 
+Orlando 	-	Peoria 
+Orlando 	-	Pittsburgh 
+Orlando 	-	Plattsburgh
+Orlando 	-	Portsmouth 
+Orlando 	-	Raleigh
+Orlando 	-	Richmond 
+Orlando 	-	Roanoke 
+Orlando 	-	Rochester, ny 
+Orlando 	-	chicago 
+Orlando 	-	San Antonio 
+Orlando 	-	Shreveport 
+Orlando 	-	Sioux Falls 
+Orlando 	-	South Bend 
+Orlando 	-	Springfield
+Orlando 	-	Toledo  / Detroit 
+Orlando 	-	Tri-Cities
+Orlando 	-	Tulsa 
+Orlando 	-	Wichita 
+phoenix 	-	Appleton 
+phoenix 	-	st. Louis 
+phoenix 	-	Billings 
+phoenix 	-	Bismarck 
+phoenix 	-	Boise 
+phoenix 	-	Bozeman 
+phoenix 	-	Cedar Rapids 
+phoenix 	-	Cincinnati 
+phoenix 	-	Des Moines 
+phoenix 	-	Eugene 
+phoenix 	-	Fargo 
+phoenix 	-	Fort Wayne 
+phoenix 	-	Grand Forks 
+phoenix 	-	Grand Island 
+phoenix 	-	Grand Rapids 
+phoenix 	-	Great Falls 
+phoenix 	-	Idaho Falls 
+phoenix 	-	Indianapolis 
+phoenix 	-	Kansas City 
+phoenix 	-	Louisville 
+phoenix 	-	Medford 
+phoenix 	-	Memphis 
+phoenix 	-	Milwaukee 
+phoenix 	-	Minot 
+phoenix 	-	Missoula 
+phoenix 	-	Moline 
+phoenix 	-	Ogden 
+phoenix 	-	Omaha 
+phoenix 	-	Pasco 
+phoenix 	-	Peoria 
+phoenix 	-	Provo 
+phoenix 	-	Rapid City 
+phoenix 	-	chicago 
+phoenix 	-	Sioux Falls 
+phoenix 	-	South Bend 
+phoenix 	-	Springfield
+phoenix 	-	St. Cloud 
+phoenix 	-	Stockton 
+phoenix 	-	Tampa
+phoenix 	-	Wichita 
+San Diego 	-	El Paso 
+San Diego 	-	Stockton 
+San Juan 	-	Cincinnati 
+San Juan 	-	Orlando 
+San Juan 	-	Pittsburgh 
+San Juan 	-	Raleigh
+sarasota 	-	Cincinnati 
+sarasota 	-	Indianapolis 
+sarasota 	-	Pittsburgh 
+Savannah   	-	Cincinnati 
+Savannah   	-	cleveland 
+Savannah   	-	Columbus
+Savannah   	-	Indianapolis 
+Savannah   	-	Lexington 
+Savannah   	-	Louisville 
+Savannah   	-	Pittsburgh 
+Savannah   	-	Baltimore 
+Tampa	-	Allentown 
+Tampa	-	Appleton 
+Tampa	-	Asheville 
+Tampa	-	Bangor 
+Tampa	-	st. Louis 
+Tampa	-	Bloomington 
+Tampa	-	Cedar Rapids 
+Tampa	-	Chattanooga 
+Tampa	-	Cincinnati 
+Tampa	-	cleveland 
+Tampa	-	Columbus
+Tampa	-	Charlotte
+Tampa	-	Dayton 
+Tampa	-	Des Moines 
+Tampa	-	Elmira / Corning 
+Tampa	-	Flint 
+Tampa	-	Fort Wayne 
+Tampa	-	Grand Rapids 
+Tampa	-	Greensboro
+Tampa	-	Greenville
+Tampa	-	Hagerstown 
+Tampa	-	Harrisburg 
+Tampa	-	Huntington (Tri-State) 
+Tampa	-	Indianapolis 
+Tampa	-	Kansas City 
+Tampa	-	Knoxville 
+Tampa	-	Lexington 
+Tampa	-	Louisville 
+Tampa	-	Memphis 
+Tampa	-	Milwaukee 
+Tampa	-	Moline 
+Tampa	-	Newburgh (Stewart) 
+Tampa	-	buffalo 
+Tampa	-	Norfolk 
+Tampa	-	Peoria
+Tampa	-	Pittsburgh 
+Tampa	-	Plattsburgh 
+Tampa	-	Providence 
+Tampa	-	Raleigh
+Tampa	-	Richmond 
+Tampa	-	Roanoke 
+Tampa	-	chicago 
+Tampa	-	Sioux Falls 
+Tampa	-	South Bend 
+Tampa	-	Springfield
+Tampa	-	Syracuse 
+Tampa	-	Toledo  / Detroit 
+Tampa	-	Tri-Cities
+Tampa	-	Tulsa 
+Baltimore 	-	Asheville 
+Baltimore 	-	Cincinnati 
+Baltimore 	-	Knoxville 
+Baltimore 	-	Tulsa 

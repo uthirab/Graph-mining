@@ -1,0 +1,1010 @@
+289
+720
+aberdeen
+abilene
+aguadilla,puerto rico
+akron-canton
+albany, ga
+albany, ny
+albuquerque
+alexandria
+allentown
+alpena
+amarillo
+anchorage
+appleton
+asheville
+aspen
+atlanta
+atlantic city
+augusta
+austin
+bakersfield
+baltimore
+bangor
+baton rouge
+beaumont
+bemidji
+billings
+binghamton
+birmingham
+bismarck
+bloomington
+boise
+boston
+bozeman
+brainerd
+branson
+brownsville
+brunswick
+buffalo
+burbank
+burlington
+butte
+casper
+cedar city
+cedar rapids
+champaign
+charleston, sc
+charleston, wv
+charlotte
+charlottesville
+chattanooga
+chicago
+chisholm/hibbing
+cincinnati
+clarksburg/morgantown
+cleveland
+cody
+college station
+colorado springs
+columbia
+columbus
+columbus/ft. benning
+columbus/starkville west point
+concord
+corpus christi
+dallas
+dayton
+daytona beach
+denver
+des moines
+detroit
+dothan
+dubuque
+duluth
+durango
+eagle/vail/beaver creek
+el paso
+elko
+elmira/corning
+elpaso
+erie
+escanaba
+eugene
+evansville
+fairbanks
+fargo
+fayetteville
+flagstaff
+flint
+florence
+fort lauderdale
+fort myers
+fort smith
+fort walton beach
+fort wayne
+fresno
+gainesville
+garden city
+grand island
+grand junction
+grand rapids
+grandforks
+great falls
+green bay
+greensboro
+greenville
+gulfport
+gunnison
+hagerstown
+harlingen
+harrisburg
+hartford
+hattiesburg
+hayden
+helena
+honolulu
+houston
+huntington(tri-state)
+huntsville
+idaho falls
+indianapolis
+international falls
+iron mountain/kingsfield
+islip
+ithaca
+jackson
+jackson hole
+jacksonville
+jacksonville/camp lejeune 
+joplin
+juneau
+kahului
+kalamazoo
+kalispell
+kansas city
+ketchikan
+key west
+killeen
+knoxville
+kona
+la crosse
+lafayette
+lake charles
+lansing
+laredo
+las vegas
+latrobe
+lawton
+lewiston
+lexington
+lihue
+lincoln
+little rock
+long beach
+long island
+longview
+los angeles
+louisville
+lubbock
+lynchburg
+madison
+manchester
+manhattan
+marquette
+martha's vineyard
+mcallen
+medford
+memphis
+meridian
+miami
+midland
+midland/saginaw
+milwaukee
+minneapolis
+minot
+missoula
+mobile
+moline
+monroe
+monterey
+montgomery
+montrose
+myrtle beach
+nantucket
+nashville
+nassau bahamas
+new bern
+new haven
+new orleans
+new york
+newark
+newburgh(stewart)
+newport news
+norfolk
+oakland
+oklahoma city
+omaha
+ontario
+orange county
+orlando
+owensboro
+palm springs
+panama city
+pasco
+pellston/mackinac island
+pensacola
+peoria
+philadelphia
+phoenix
+pittsburgh
+plattsburgh
+pocatello
+portland
+portland, me
+portsmouth
+providence
+provo
+raleigh
+rapid city
+redmond
+reno
+rhinelander
+richmond
+roanoke
+rochester, mn
+rochester, ny
+roswell
+sacramento
+saintthomas,usvirginislands
+salisbury
+salt lake city
+san angelo
+san antonio
+san diego
+san francisco
+san jose
+san juan
+san luis obispo
+santa ana
+santa barbara
+santa fe
+santa rosa
+santamaria
+sarasota
+sault ste. marie
+savannah
+seattle
+shreveport
+sioux city
+sioux falls
+sitka
+south bend
+spokane
+springfield
+st george
+st. louis
+st.cloud
+state college
+stillwater
+stockton
+sun valley
+syracuse
+tallahassee
+tampa
+texarkana
+toledo
+traverse city
+trenton
+tri-cities
+tucson
+tulsa
+twin falls
+tyler
+vail
+valdosta
+waco
+washington
+waterloo
+watertown
+wausau
+west palm beach
+west yellowstone
+white plains
+wichita
+wichita falls
+wilkes
+williamsport
+williston
+wilmington
+yuma
+Albany, NY - Baltimore 
+Albany, NY - Chicago 
+Albany, NY - Denver 
+Albany, NY - fort lauderdale 
+Albany, NY - fort myers
+Albany, NY - Orlando 
+Albany, NY - Tampa 
+Albuquerque - Austin
+Albuquerque - Baltimore 
+Albuquerque - Chicago
+Albuquerque - Dallas 
+Albuquerque - Denver 
+Albuquerque - Houston 
+Albuquerque - Kansas City 
+Albuquerque - Las Vegas 
+Albuquerque - Los Angeles 
+Albuquerque - Oakland
+Albuquerque - Orlando 
+Albuquerque - Phoenix
+Albuquerque - portland
+Albuquerque - San Diego
+Albuquerque - San Jose
+Amarillo - Dallas 
+Amarillo - Las Vegas 
+Atlanta - Austin 
+Atlanta - Baltimore 
+Atlanta - Boston 
+Atlanta - Chicago 
+Atlanta - cleveland 
+Atlanta - Columbus 
+Atlanta - Dallas 
+Atlanta - Denver 
+Atlanta - Detroit 
+Atlanta - fort lauderdale 
+Atlanta - fort myers
+Atlanta - Greenville
+Atlanta - Houston 
+Atlanta - Indianapolis 
+Atlanta - Jacksonville 
+Atlanta - Kansas City 
+Atlanta - Las Vegas 
+Atlanta - Los Angeles 
+Atlanta - Milwaukee 
+Atlanta - minneapolis 
+Atlanta - Nashville 
+Atlanta - New Orleans 
+Atlanta - New York 
+Atlanta - Oakland 
+Atlanta - Orlando 
+Atlanta - Philadelphia 
+Atlanta - Phoenix 
+Atlanta - Pittsburgh 
+Atlanta - raleigh 
+Atlanta - Richmond 
+Atlanta - San Antonio 
+Atlanta - San Diego 
+Atlanta - St. Louis 
+Atlanta - Tampa 
+Atlanta - washington 
+Atlanta - washington 
+Atlanta - West Palm Beach 
+Austin - Baltimore 
+Austin - Boston 
+Austin - Chicago 
+Austin - Dallas 
+Austin - Denver 
+Austin - El Paso 
+Austin - fort lauderdale 
+Austin - Harlingen 
+Austin - Houston 
+Austin - Indianapolis 
+Austin - Kansas City 
+Austin - Las Vegas 
+Austin - Los Angeles 
+Austin - Lubbock 
+Austin - Nashville 
+Austin - New Orleans 
+Austin - newark 
+Austin - Oakland 
+Austin - Orlando 
+Austin - Panama City 
+Austin - Pensacola 
+Austin - Phoenix 
+Austin - portland 
+Austin - Sacramento 
+Austin - San Diego 
+Austin - San Francisco 
+Austin - San Jose 
+Austin - St. Louis 
+Austin - Tampa 
+Austin - washington 
+Balitimore - Charleston, SC
+Balitimore - Charlotte
+Balitimore - Chicago
+Balitimore - Cincinnati
+Balitimore - cleveland
+Balitimore - Columbus
+Balitimore - Dallas
+Balitimore - Denver
+Balitimore - Detroit
+Balitimore - fort lauderdale
+Balitimore - fort myers
+Balitimore - Grand Rapids
+Balitimore - Houston
+Balitimore - Indianapolis
+Balitimore - Jacksonville
+Balitimore - Kansas City
+Balitimore - Las Vegas
+Balitimore - long island
+Balitimore - Los Angeles
+Balitimore - Louisville
+Balitimore - Manchester
+Balitimore - Memphis
+Balitimore - Milwaukee
+Balitimore - minneapolis
+Balitimore - Nassau Bahamas
+Balitimore - New Orleans
+Balitimore - Norfolk - ORF
+Balitimore - Oakland
+Balitimore - Oklahoma City
+Balitimore - Orlando
+Balitimore - Panama City
+Balitimore - Phoenix
+Balitimore - Pittsburgh
+Balitimore - Portland, ME
+Balitimore - portland
+Balitimore - Providence
+Balitimore - Punta Cana - PUJ
+Balitimore - raleigh
+Balitimore - Rochester, NY
+Balitimore - Sacramento
+Balitimore - Salt Lake City
+Balitimore - San Antonio
+Balitimore - San Diego
+Balitimore - San Jose
+Balitimore - San Juan
+Balitimore - seattle
+Balitimore - St. Louis
+Balitimore - Tampa
+Balitimore - West Palm Beach
+Birmingham - Baltimore 
+Birmingham - Chicago 
+Birmingham - Dallas 
+Birmingham - Houston 
+Birmingham - Las Vegas 
+Birmingham - Orlando 
+Birmingham - Tampa 
+Boise - Chicago 
+Boise - Dallas 
+Boise - Denver 
+Boise - Las Vegas 
+Boise - Oakland 
+Boise - Phoenix 
+Boise - Sacramento
+Boise - San Diego 
+Boise - San Jose 
+Boise - spokane
+Boston - Baltimore 
+Boston - Chicago 
+Boston - Columbus 
+Boston - Dallas 
+Boston - Denver 
+Boston - Houston 
+Boston - Indianapolis 
+Boston - Kansas City 
+Boston - Milwaukee 
+Boston - New Orleans 
+Boston - Orlando 
+Boston - St. Louis 
+Boston - Tampa  
+Buffalo - Baltimore
+Buffalo - Chicago
+Buffalo - fort lauderdale
+Buffalo - fort myers
+Buffalo - Las Vegas
+Buffalo - Orlando
+Buffalo - Phoenix
+Buffalo - Tampa
+Burbank - Dallas
+Burbank - Denver
+Burbank - Las Vegas
+Burbank - Oakland
+Burbank - Phoenix
+Burbank - portland
+Burbank - Sacramento
+Burbank - Salt Lake City
+Burbank - San Francisco
+Burbank - San Jose
+Charleston, SC - Baltimore
+Charleston, SC - Chicago
+Charleston, SC - Dallas
+Charleston, SC - Denver
+Charleston, SC - Houston
+Charleston, SC - St. Louis
+Charlotte - Chicago
+Charlotte - Dallas
+Charlotte - Houston
+Chicago - fort myers
+Chicago - Louisville
+Chicago - Manchester
+Chicago - Memphis
+Chicago - minneapolis
+Chicago - New Orleans
+Chicago - Norfolk - ORF
+Chicago - Oakland
+Chicago - Oklahoma City
+Chicago - Omaha
+Chicago - Pensacola
+Chicago - Philadelphia
+Chicago - Phoenix
+Chicago - Pittsburgh
+Chicago - Portland, ME
+Chicago - portland
+Chicago - Providence
+Chicago - raleigh
+Chicago - reno
+Chicago - Sacramento
+Chicago - Salt Lake City
+Chicago - San Antonio
+Chicago - San Diego
+Chicago - San Francisco
+Chicago - San Jose
+Chicago - San Juan
+Chicago - seattle
+Chicago - St. Louis
+Chicago - Tampa
+Chicago - Tucson
+Chicago - West Palm Beach
+Cincinnati - Chicago
+Cincinnati - Denver
+Cincinnati - Phoenix
+cleveland - Chicago
+cleveland - Denver
+cleveland - fort myers
+cleveland - Las Vegas
+cleveland - Milwaukee
+cleveland - New Orleans
+cleveland - Orlando
+cleveland - Phoenix
+cleveland - St. Louis
+Columbus - Chicago
+Columbus - Dallas
+Columbus - Denver
+Columbus - fort lauderdale
+Columbus - fort myers
+Columbus - Las Vegas
+Columbus - New Orleans
+Columbus - Oakland
+Columbus - Orlando
+Columbus - Phoenix
+Columbus - St. Louis
+Columbus - Tampa
+Columbus - washington
+Corpus Christi - Houston
+Dallas - Chicago
+Dallas - Denver
+Dallas - Detroit
+Dallas - El Paso
+Dallas - fort lauderdale
+Dallas - Houston
+Dallas - Indianapolis
+Dallas - Jacksonville
+Dallas - Kansas City
+Dallas - Las Vegas
+Dallas - Little Rock
+Dallas - Los Angeles
+Dallas - Lubbock
+Dallas - Memphis
+Dallas - midland
+Dallas - Milwaukee
+Dallas - minneapolis
+Dallas - New Orleans
+Dallas - New York
+Dallas - Oakland
+Dallas - Oklahoma City
+Dallas - Omaha
+Dallas - Orange County
+Dallas - Orlando
+Dallas - Panama City
+Dallas - Pensacola
+Dallas - Philadelphia
+Dallas - Phoenix
+Dallas - Pittsburgh
+Dallas - portland
+Dallas - raleigh
+Dallas - reno
+Dallas - Sacramento
+Dallas - Salt Lake City
+Dallas - San Antonio
+Dallas - San Diego
+Dallas - San Francisco
+Dallas - San Jose
+Dallas - seattle
+Dallas - St. Louis
+Dallas - Tampa
+Dallas - Tulsa
+Dallas - washington
+Denver - Chicago
+Denver - Detroit
+Denver - fort lauderdale
+Denver - fort myers
+Denver - Grand Rapids
+Denver - Houston
+Denver - Indianapolis
+Denver - Jacksonville
+Denver - Kansas City
+Denver - Las Vegas
+Denver - Long Beach
+Denver - Los Angeles
+Denver - Louisville
+Denver - Milwaukee
+Denver - minneapolis
+Denver - New Orleans
+Denver - New York
+Denver - newark
+Denver - Norfolk - ORF
+Denver - Oakland
+Denver - Oklahoma City
+Denver - Omaha
+Denver - Orange County
+Denver - Orlando
+Denver - Panama City
+Denver - Pensacola
+Denver - Philadelphia
+Denver - Phoenix
+Denver - Pittsburgh
+Denver - portland
+Denver - raleigh
+Denver - reno
+Denver - Sacramento
+Denver - Salt Lake City
+Denver - San Antonio
+Denver - San Diego
+Denver - San Francisco
+Denver - San Jose
+Denver - seattle
+Denver - spokane
+Denver - St. Louis
+Denver - Tampa
+Denver - Tucson
+Denver - Tulsa
+Denver - washington
+Des Moines - Las Vegas
+Des Moines - Phoenix
+Des Moines - St. Louis
+Detroit - Chicago
+Detroit - Las Vegas
+Detroit - Orlando
+Detroit - Phoenix
+Detroit - St. Louis
+Detroit - Tampa
+El Paso - Houston
+El Paso - Las Vegas
+El Paso - Los Angeles
+El Paso - Phoenix
+El Paso - San Antonio
+El Paso - San Diego
+Flint - Chicago
+Flint - fort myers
+Flint - Orlando
+Flint - Tampa
+fort lauderdale - Chicago
+fort lauderdale - Indianapolis
+fort lauderdale - Jacksonville
+fort lauderdale - Kansas City
+fort lauderdale - Las Vegas
+fort lauderdale - long island
+fort lauderdale - Manchester
+fort lauderdale - Milwaukee
+fort lauderdale - minneapolis
+fort lauderdale - Nassau Bahamas
+fort lauderdale - New Orleans
+fort lauderdale - New York
+fort lauderdale - Orlando
+fort lauderdale - Philadelphia
+fort lauderdale - Phoenix
+fort lauderdale - Pittsburgh
+fort lauderdale - Providence
+fort lauderdale - Punta Cana - PUJ
+fort lauderdale - raleigh
+fort lauderdale - San Antonio
+fort lauderdale - San Juan
+fort lauderdale - St. Louis
+fort lauderdale - Tampa
+fort lauderdale - washington
+fort myers- St. Louis
+Grand Rapids - Chicago
+Grand Rapids - fort myers
+Grand Rapids - Orlando
+Grand Rapids - Tampa
+Hartford - Baltimore 
+Hartford - Chicago 
+Hartford - Denver 
+Hartford - fort lauderdale 
+Hartford - fort myers
+Hartford - Las Vegas 
+Hartford - Orlando 
+Hartford - St. Louis 
+Hartford - Tampa
+Hartford - West Palm Beach 
+Houston - Chicago
+Houston - Harlingen
+Houston - Indianapolis
+Houston - Jacksonville
+Houston - Kansas City
+Houston - Las Vegas
+Houston - Los Angeles
+Houston - Memphis
+Houston - midland
+Houston - Milwaukee
+Houston - New Orleans
+Houston - New York
+Houston - Oakland
+Houston - Oklahoma City
+Houston - Omaha
+Houston - Orange County
+Houston - Orlando
+Houston - Pensacola
+Houston - Phoenix
+Houston - Pittsburgh
+Houston - portland
+Houston - raleigh
+Houston - Salt Lake City
+Houston - San Antonio
+Houston - San Diego
+Houston - San Jose
+Houston - San Juan
+Houston - seattle
+Houston - St. Louis
+Houston - Tampa
+Houston - Tulsa
+Indianapolis - Chicago
+Indianapolis - fort myers
+Indianapolis - Kansas City
+Indianapolis - Las Vegas
+Indianapolis - Los Angeles
+Indianapolis - New Orleans
+Indianapolis - Oakland
+Indianapolis - Orlando
+Indianapolis - Phoenix
+Indianapolis - San Diego
+Indianapolis - Tampa
+Jacksonville - Chicago
+Kansas City - Chicago
+Kansas City - fort myers
+Kansas City - Milwaukee
+Kansas City - minneapolis
+Kansas City - New Orleans
+Kansas City - Oakland
+Kansas City - Orlando
+Kansas City - Pensacola
+Kansas City - Phoenix
+Kansas City - portland
+Kansas City - raleigh
+Kansas City - San Antonio
+Kansas City - San Diego
+Kansas City - seattle
+Kansas City - St. Louis
+Kansas City - Tampa
+Las Vegas - Chicago
+Las Vegas - Kansas City
+Las Vegas - Little Rock
+Las Vegas - Long Beach
+Las Vegas - Los Angeles
+Las Vegas - Louisville
+Las Vegas - Lubbock
+Las Vegas - midland
+Las Vegas - Milwaukee
+Las Vegas - minneapolis
+Las Vegas - New Orleans
+Las Vegas - Oakland
+Las Vegas - Oklahoma City
+Las Vegas - Omaha
+Las Vegas - Orange County
+Las Vegas - Orlando
+Las Vegas - Philadelphia
+Las Vegas - Phoenix
+Las Vegas - Pittsburgh
+Las Vegas - portland
+Las Vegas - raleigh
+Las Vegas - reno
+Las Vegas - Sacramento
+Las Vegas - Salt Lake City
+Las Vegas - San Antonio
+Las Vegas - San Diego
+Las Vegas - San Francisco
+Las Vegas - San Jose
+Las Vegas - seattle
+Las Vegas - St. Louis
+Las Vegas - Tampa
+Las Vegas - Tucson
+Las Vegas - Tulsa
+Little Rock - Phoenix
+Little Rock - St. Louis
+Long Beach - Oakland
+Long Beach - Sacramento
+long island - Orlando
+long island - Tampa
+long island - West Palm Beach
+Los Angeles - Chicago
+Los Angeles - Kansas City
+Los Angeles - Milwaukee
+Los Angeles - New Orleans
+Los Angeles - Oakland
+Los Angeles - Omaha
+Los Angeles - Phoenix
+Los Angeles - Pittsburgh
+Los Angeles - portland
+Los Angeles - reno
+Los Angeles - Sacramento
+Los Angeles - Salt Lake City
+Los Angeles - San Antonio
+Los Angeles - San Francisco
+Los Angeles - San Jose
+Los Angeles - St. Louis
+Los Angeles - Tampa
+Los Angeles - Tucson
+Louisville - Tampa
+Manchester - Tampa
+Memphis - Tampa
+Milwaukee - fort myers
+Milwaukee - Phoenix
+Milwaukee - San Diego
+Milwaukee - San Francisco
+Milwaukee - seattle
+Milwaukee - St. Louis
+Milwaukee - Tampa
+minneapolis - fort myers
+minneapolis - Oakland
+minneapolis - Phoenix
+minneapolis - St. Louis
+minneapolis - Tampa
+Nashville - Atlanta 
+Nashville - Austin 
+Nashville - Baltimore 
+Nashville - Boston 
+Nashville - Charleston, SC 
+Nashville - Charlotte 
+Nashville - Chicago 
+Nashville - cleveland 
+Nashville - Columbus
+Nashville - Dallas 
+Nashville - Denver 
+Nashville - Detroit 
+Nashville - fort lauderdale 
+Nashville - fort myers
+Nashville - Houston 
+Nashville - Jacksonville 
+Nashville - Kansas City 
+Nashville - Las Vegas 
+Nashville - Los Angeles 
+Nashville - Milwaukee 
+Nashville - minneapolis 
+Nashville - New Orleans 
+Nashville - New York 
+Nashville - Oakland 
+Nashville - Orlando 
+Nashville - Panama City 
+Nashville - Pensacola 
+Nashville - Philadelphia 
+Nashville - Phoenix 
+Nashville - Pittsburgh 
+Nashville - raleigh 
+Nashville - San Antonio 
+Nashville - San Diego 
+Nashville - seattle 
+Nashville - St. Louis 
+Nashville - Tampa 
+Nashville - washington 
+New Orleans - Oakland
+New Orleans - Phoenix
+New Orleans - Pittsburgh
+New Orleans - raleigh
+New Orleans - Sacramento
+New Orleans - San Antonio
+New Orleans - San Diego
+New Orleans - San Jose
+New Orleans - St. Louis
+New Orleans - Tampa
+New York - Chicago
+New York - Kansas City
+New York - Milwaukee
+New York - Phoenix
+New York - St. Louis
+New York - Tampa
+newark - Chicago
+newark - fort lauderdale
+newark - Indianapolis
+newark - Oakland
+newark - Orlando
+newark - Phoenix
+newark - San Diego
+newark - St. Louis
+Oakland - Orange County
+Oakland - Phoenix
+Oakland - portland
+Oakland - reno
+Oakland - Salt Lake City
+Oakland - San Antonio
+Oakland - San Diego
+Oakland - seattle
+Oakland - St. Louis
+Oakland - Tucson
+Oklahoma City - St. Louis
+Omaha - St. Louis
+Omaha - Tampa
+Orlando - Chicago
+Orlando - Louisville
+Orlando - Manchester
+Orlando - Memphis
+Orlando - Milwaukee
+Orlando - minneapolis
+Orlando - New Orleans
+Orlando - Norfolk - ORF
+Orlando - Oakland
+Orlando - Oklahoma City
+Orlando - Omaha
+Orlando - Philadelphia
+Orlando - Phoenix
+Orlando - Pittsburgh
+Orlando - Portland, ME
+Orlando - Providence
+Orlando - raleigh
+Orlando - Richmond
+Orlando - Rochester, NY
+Orlando - Sacramento
+Orlando - San Antonio
+Orlando - San Diego
+Orlando - San Jose
+Orlando - San Juan
+Orlando - St. Louis
+Orlando - Tulsa
+Panama City - Chicago
+Panama City - Houston
+Panama City - St. Louis
+Pensacola - St. Louis
+Philadelphia - St. Louis
+Philadelphia - Tampa
+Phoenix - Louisville
+Phoenix - Orange County
+Phoenix - Pittsburgh
+Phoenix - raleigh
+Phoenix - reno
+Phoenix - Sacramento
+Phoenix - Salt Lake City
+Phoenix - San Antonio
+Phoenix - San Diego
+Phoenix - San Francisco
+Phoenix - San Jose
+Phoenix - seattle
+Phoenix - St. Louis
+Phoenix - Tampa
+Phoenix - Tulsa
+Pittsburgh - fort myers
+Pittsburgh - St. Louis
+Pittsburgh - Tampa
+portland - Sacramento
+portland - San Diego
+portland - San Francisco
+portland - San Jose
+portland - St. Louis
+Providence - fort myers
+Providence - Tampa
+raleigh - St. Louis
+raleigh - Tampa
+reno - San Diego
+reno - San Jose
+Rochester, NY - fort myers
+Rochester, NY - Tampa
+Sacramento - Orange County
+Sacramento - St. Louis
+Salt Lake City - Sacramento
+San Antonio - St. Louis
+San Antonio - Tampa
+San Diego - Sacramento
+San Diego - Salt Lake City
+San Diego - San Antonio
+San Diego - San Francisco
+San Diego - San Jose
+San Diego - seattle
+San Diego - St. Louis
+San Diego - Tampa
+San Diego - Tucson
+San Francisco - Orange County
+San Francisco - St. Louis
+San Jose - Orange County
+San Jose - Salt Lake City
+San Jose - St. Louis
+seattle - Sacramento
+seattle - San Jose
+seattle - St. Louis
+spokane- Chicago
+spokane- Las Vegas
+spokane- Oakland
+spokane- Phoenix
+spokane- Sacramento
+spokane- San Jose
+St. Louis - Tampa
+St. Louis - Tulsa
+washington - Chicago
+washington - fort lauderdale
+washington - fort myers
+washington - Houston
+washington - Kansas City
+washington - Milwaukee
+washington - New Orleans
+washington - Omaha
+washington - Orlando
+washington - Orlando
+washington - Providence
+washington - St. Louis
+washington - Tampa
+West Palm Beach - Philadelphia
+West Palm Beach - Pittsburgh
+West Palm Beach - Providence
+West Palm Beach - St. Louis
+Wichita - Las Vegas
+Wichita - Phoenix
+Wichita - St. Louis

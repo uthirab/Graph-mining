@@ -1,0 +1,289 @@
+aberdeen
+abilene
+aguadilla,puerto rico
+akron-canton
+albany, ga
+albany, ny
+albuquerque
+alexandria
+allentown
+alpena
+amarillo
+anchorage
+appleton
+asheville
+aspen
+atlanta
+atlantic city
+augusta
+austin
+bakersfield
+baltimore
+bangor
+baton rouge
+beaumont
+bemidji
+billings
+binghamton
+birmingham
+bismarck
+bloomington
+boise
+boston
+bozeman
+brainerd
+branson
+brownsville
+brunswick
+buffalo
+burbank
+burlington
+butte
+casper
+cedar city
+cedar rapids
+champaign
+charleston, sc
+charleston, wv
+charlotte
+charlottesville
+chattanooga
+chicago
+chisholm/hibbing
+cincinnati
+clarksburg/morgantown
+cleveland
+cody
+college station
+colorado springs
+columbia
+columbus
+columbus/ft. benning
+columbus/starkville west point
+concord
+corpus christi
+dallas
+dayton
+daytona beach
+denver
+des moines
+detroit
+dothan
+dubuque
+duluth
+durango
+eagle/vail/beaver creek
+el paso
+elko
+elmira/corning
+elpaso
+erie
+escanaba
+eugene
+evansville
+fairbanks
+fargo
+fayetteville
+flagstaff
+flint
+florence
+fort lauderdale
+fort myers
+fort smith
+fort walton beach
+fort wayne
+fresno
+gainesville
+garden city
+grand island
+grand junction
+grand rapids
+grandforks
+great falls
+green bay
+greensboro
+greenville
+gulfport
+gunnison
+hagerstown
+harlingen
+harrisburg
+hartford
+hattiesburg
+hayden
+helena
+honolulu
+houston
+huntington(tri-state)
+huntsville
+idaho falls
+indianapolis
+international falls
+iron mountain/kingsfield
+islip
+ithaca
+jackson
+jackson hole
+jacksonville
+jacksonville/camp lejeune 
+joplin
+juneau
+kahului
+kalamazoo
+kalispell
+kansas city
+ketchikan
+key west
+killeen
+knoxville
+kona
+la crosse
+lafayette
+lake charles
+lansing
+laredo
+las vegas
+latrobe
+lawton
+lewiston
+lexington
+lihue
+lincoln
+little rock
+long beach
+long island
+longview
+los angeles
+louisville
+lubbock
+lynchburg
+madison
+manchester
+manhattan
+marquette
+martha's vineyard
+mcallen
+medford
+memphis
+meridian
+miami
+midland
+midland/saginaw
+milwaukee
+minneapolis
+minot
+missoula
+mobile
+moline
+monroe
+monterey
+montgomery
+montrose
+myrtle beach
+nantucket
+nashville
+nassau bahamas
+new bern
+new haven
+new orleans
+new york
+newark
+newburgh(stewart)
+newport news
+norfolk
+oakland
+oklahoma city
+omaha
+ontario
+orange county
+orlando
+owensboro
+palm springs
+panama city
+pasco
+pellston/mackinac island
+pensacola
+peoria
+philadelphia
+phoenix
+pittsburgh
+plattsburgh
+pocatello
+portland
+portland, me
+portsmouth
+providence
+provo
+raleigh
+rapid city
+redmond
+reno
+rhinelander
+richmond
+roanoke
+rochester, mn
+rochester, ny
+roswell
+sacramento
+saintthomas,usvirginislands
+salisbury
+salt lake city
+san angelo
+san antonio
+san diego
+san francisco
+san jose
+san juan
+san luis obispo
+santa ana
+santa barbara
+santa fe
+santa rosa
+santamaria
+sarasota
+sault ste. marie
+savannah
+seattle
+shreveport
+sioux city
+sioux falls
+sitka
+south bend
+spokane
+springfield
+st george
+st. louis
+st.cloud
+state college
+stillwater
+stockton
+sun valley
+syracuse
+tallahassee
+tampa
+texarkana
+toledo
+traverse city
+trenton
+tri-cities
+tucson
+tulsa
+twin falls
+tyler
+vail
+valdosta
+waco
+washington
+waterloo
+watertown
+wausau
+west palm beach
+west yellowstone
+white plains
+wichita
+wichita falls
+wilkes
+williamsport
+williston
+wilmington
+yuma
