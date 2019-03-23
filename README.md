@@ -1,5 +1,5 @@
 # Graph-mining
-1.WHat is found - Hubs of the airline
+1.Main goal is to find - Hubs of the airline
 2.which cities have lot of connection
 3.which 2 cities have flights from all airlines
 4.in case of new airlines comapany or exiting airline plannin to shift hub which is the best city to consider for hub location
